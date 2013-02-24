@@ -1,0 +1,13 @@
+GEM
+  specs:
+    addressable (2.3.2)
+    em-websocket (0.3.6)
+      addressable (>= 2.1.1)
+      eventmachine (>= 0.12.9)
+    eventmachine (0.12.10)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  em-websocket
